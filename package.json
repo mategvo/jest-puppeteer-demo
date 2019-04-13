@@ -1,0 +1,15 @@
+{
+  "name": "fineyellow-e2e-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mate Gwozdz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "puppeteer": "^1.14.0"
+  }
+}
