@@ -12,4 +12,4 @@ Run test
 
 # expected results 
 
-The test should open chromium browser, google.com page, type in the input and verify text content of the first URL
+The test should open chromium browser, google.com page, type in the input and verify text content of the first result
