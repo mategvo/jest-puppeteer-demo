@@ -20,6 +20,7 @@ test('first link should lead to angel.co profile', async () => {
 
     expect(text).toBe('https://angel.co/mategwozdz')
 
+    browser.close()
 
 }, 100000)
 
